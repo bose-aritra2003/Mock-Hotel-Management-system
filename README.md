@@ -19,8 +19,14 @@ Basic Hotel Management System (in Python) is a simple console application, based
 
 ## Prerequisites
 
-* Python version 3.x **(Link to download-->https://www.python.org/downloads/)**
-* MySQL Community Server 8.0 and above **(Link to download-->https://dev.mysql.com/downloads/mysql/)**
+* Python version 3.x 
+  ```
+  Link to download-->https://www.python.org/downloads/
+  ```
+* MySQL Community Server 8.0 and above 
+  ```
+  Link to download-->https://dev.mysql.com/downloads/mysql/
+  ```
 * **Operating System:** Windows 10/8/7, Linux, MacOS
 * Minimum 128MB Ram 
 * Minimum 10MB of free storage
