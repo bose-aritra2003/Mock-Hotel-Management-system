@@ -6,7 +6,7 @@ import datetime
 import sys
 import csv
 
-db = mysql.connector.connect(host = "localhost", user = "root", password = "2970")
+db = mysql.connector.connect(host = "localhost", user = "root", password = "")
 cr = db.cursor()
 cr.execute("CREATE DATABASE IF NOT EXISTS HOTEL_MANAGEMENT")
 cr.execute("USE HOTEL_MANAGEMENT")
