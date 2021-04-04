@@ -55,6 +55,15 @@ Basic Hotel Management System (in Python) is a simple console application, based
 ![](how-to-use/5.jpg)<br />
 <br />
 
+## Handling MySQL password error
+
+(While installing MySQL community server if you haven't given any password then skip this section. Otherwise follow along.)<br />
+<br />
+If you have set your own password while installing MySQL community server then you will face an error where the program will just keep crashing just after you follow STEP 6 mentioned above under the _"How to use the Program"_ section. The reason for this error is that while coding the program, the password for mysql connection was given as default password so when an user has their own password set then python would not be able to connect to mysql server due to password mismatch. To correct the error follow the steps given below:<br />
+<br />
+**1. After performing STEP 5 mentioned above under the _"How to use the Program"_ section, right click on the python file named _"Basic Hotel Management System.py"_ then move your mouse pointer over the option named _"Edit with IDLE"_. Another dropdown menu will be shown, there click on _"Edit with IDLE 3.x (32/64-bit)"_.**<br />
+![]
+
 ## Program Mockups
 
 ![](mockups/1.jpg)
