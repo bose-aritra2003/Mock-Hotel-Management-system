@@ -37,4 +37,4 @@ Basic Hotel Management System (in Python) is a simple console application, based
 
 ## Developers
 
-![](the-core-team.JPG)
+![](/the-core-team.jpg)
