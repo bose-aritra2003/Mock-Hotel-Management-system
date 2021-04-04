@@ -742,5 +742,3 @@ while True :
             print("\nTHANK YOU FOR VISITING HOTEL THE ROYALE !!! YOU HAVE BEEN LOGGED-OUT !!!")
             sys.exit(0)
        
-
-
