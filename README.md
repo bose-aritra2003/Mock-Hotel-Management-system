@@ -67,6 +67,9 @@ If you have set your own password while installing MySQL community server then y
 **2. Now the python file will open and you should see something like shown below. Now in the indicated area show just replace xxxxxxxx with your own MySQL server password.**
 ![](errors/2.jpg)<br />
 <br />
+**3. Finally just click on _"File"_ option in the ribbon menu under the taskbar and click _"Save"_. Then close the file and you are done, the error is debugged.**
+![](errors/3.jpg)<br />
+<br />
 
 ## Program Mockups
 
