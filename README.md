@@ -35,6 +35,14 @@ Basic Hotel Management System (in Python) is a simple console application, based
 * Confidential information/text like password, credit card number, CVV are not hidden while typing.
 * Software does not have any data encryption system.
 
+## How to use the Program
+
+**1. First fulfill all the _Prerequisites_.**
+**2. Then on the GitHub repository page click on the green button named _"Code"_ and then click _"Download ZIP"_. The repository will be downloaded in your system.**
+![](how-to-use/1.jpg)
+**3. Now in your system, go to the folder where you have downloaded the ZIP.**
+![](how-to-use/2.jpg)
+
 ## Mockups
 
 ![](mockups/1.jpg)
