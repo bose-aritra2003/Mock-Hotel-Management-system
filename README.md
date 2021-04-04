@@ -37,13 +37,25 @@ Basic Hotel Management System (in Python) is a simple console application, based
 
 ## How to use the Program
 
-**1. First fulfill all the _Prerequisites_.**
+**1. First fulfill all the _Prerequisites_.**<br />
+<br />
 **2. Then on the GitHub repository page click on the green button named _"Code"_ and then click _"Download ZIP"_. The repository will be downloaded in your system.**
-
+![](how-to-use/1.jpg)<br />
+<br />
 **3. Now in your system, go to the folder where you have downloaded the ZIP.**
+![](how-to-use/2.jpg)<br />
+<br />
+**4. Now right click on the ZIP file and click on _"Extract here"_.**
+![](how-to-use/3.jpg)<br />
+<br />
+**5. The ZIP will be extracted to a folder named _"Basic-Hotel-Management-System-main"_. Double click on the folder to open it.**
+![](how-to-use/4.jpg)<br />
+<br />
+**6. Now to run the program just double click on the file _"Basic Hotel Management System.py"_. And the program runs.**
+![](how-to-use/5.jpg)<br />
+<br />
 
-
-## Mockups
+## Program Mockups
 
 ![](mockups/1.jpg)
 ![](mockups/2.jpg)
