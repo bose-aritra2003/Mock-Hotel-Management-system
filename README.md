@@ -71,13 +71,20 @@ If you have set your own password while installing MySQL community server then y
 
 ## Program Mockups
 
-![](mockups/1.jpg)
-![](mockups/2.jpg)
-![](mockups/3.jpg)
-![](mockups/4.jpg)
-![](mockups/5.jpg)
-![](mockups/6.jpg)
-![](mockups/7.jpg)
+![](mockups/1.jpg)<br />
+<br />
+![](mockups/2.jpg)<br />
+<br />
+![](mockups/3.jpg)<br />
+<br />
+![](mockups/4.jpg)<br />
+<br />
+![](mockups/5.jpg)<br />
+<br />
+![](mockups/6.jpg)<br />
+<br />
+![](mockups/7.jpg)<br />
+<br />
 
 ## Developers
 
