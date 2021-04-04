@@ -33,3 +33,7 @@ Basic Hotel Management System (in Python) is a simple console application, based
 * If user forgets their password then he/she will notfffbe able to recover his/her account.
 * Confidential information/text like password, credit card number, CVV are not hidden while typing.
 * Software does not have any data encryption system.
+
+## Developers
+
+![](images/The%20Core%20Team.JPG)
