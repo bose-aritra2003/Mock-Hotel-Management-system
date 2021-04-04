@@ -24,7 +24,7 @@ Basic Hotel Management System (in Python) is a simple console application, based
 * **Operating System:** Windows 10/8/7, Linux, MacOS
 * Minimum 128MB Ram 
 * Minimum 10MB of free storage
-* All necessary modules mentioned in **"Packages & Modules used"** section should be imported before hosting this program
+* All necessary packages & modules mentioned in **"Packages & Modules used"** section should be installed on the system before hosting this program
 
 ## Limitations of this Program
 
