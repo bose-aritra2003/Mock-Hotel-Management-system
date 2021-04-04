@@ -10,14 +10,14 @@ Basic Hotel Management System (in Python) is a simple console application, based
 * **INVOICE GENERATOR:** This feature provides the user with adetailed invoice at the end of every transaction. This invoice canalso be accessed later by the user through their accounts.
 * **BOOKING CANCELLATION:** This feature allows the user tocancel a booking and get the refund for a booking they had donepreviously, before the booking period is over.
 
-### Packages & Modules used
+## Packages & Modules used
 
 * **MYSQL.CONNECTOR:** Used for connecting **Python** (Front-end) with **MySQL** (Back-end).
 * **DATETIME:** Used for calculating the date and time duration of the hotel room booking and for checking the validity of number of days.
 * **SYS:** The sys module has been implemented in order to providevarious functions and variables that are used to manipulatedifferent parts of the Python runtime environment. It allowsoperating on the interpreter as it provides access to the variablesand functions that interact strongly with the interpreter.
 * **CSV:** This module has been implemented for storing records ofusers’ bookings in an organised manner in a csv file that can lateron be accessed in order to check/manipulate bookings.
 
-### Prequisites
+## Prequisites
 
 * Python version 3.x
 * MySQL 8.0 Command Line Client
@@ -25,7 +25,7 @@ Basic Hotel Management System (in Python) is a simple console application, based
 * Minimum 128MB Ram, 10MB free storage
 * All necessary modules mentioned in **"Packages & Modules used"** section should be imported before hosting this program
 
-#### Limitations of this Program
+## Limitations of this Program
 
 * Lack of Graphical User Interface.
 * Mouse is non usable – only keyboard commands.
