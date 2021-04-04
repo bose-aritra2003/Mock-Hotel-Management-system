@@ -17,7 +17,7 @@ Basic Hotel Management System (in Python) is a simple console application, based
 * **SYS:** The sys module has been implemented in order to providevarious functions and variables that are used to manipulatedifferent parts of the Python runtime environment. It allowsoperating on the interpreter as it provides access to the variablesand functions that interact strongly with the interpreter.
 * **CSV:** This module has been implemented for storing records ofusers’ bookings in an organised manner in a csv file that can lateron be accessed in order to check/manipulate bookings.
 
-## Prequisites
+## Prerequisites
 
 * Python version 3.x
 * MySQL 8.0 Command Line Client
