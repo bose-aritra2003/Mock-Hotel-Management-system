@@ -86,6 +86,12 @@ If you have set your own password while installing MySQL community server then y
 ![](mockups/7.jpg)<br />
 <br />
 
+## License & Copyright
+
+© Aritra Bose, Repository Owner and Programmer
+
+Licensed under the [MIT License](LICENSE)
+
 ## Developers
 
 ![](/the-core-team.jpg)
