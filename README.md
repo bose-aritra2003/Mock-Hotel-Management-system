@@ -9,7 +9,10 @@ Basic Hotel Management System (in Python) is a simple console application, based
 * [Prerequisites](#prerequisites)
 * [Limitations of the Program](#limitations-of-the-program)
 * [How to use the Program](#how-to-use-the-program)
-* 
+* [Handling Program crashing Error](#handling-program-crashing-error)
+* [Program Mockups](#program-mockups)
+* [Developers](#developers)
+* [License & Copyright](#license--copyright)
 
 ## Program Features
 
@@ -76,6 +79,8 @@ If you have set your own password while installing MySQL community server then y
 <br />
 **3. Finally just click on _"File"_ option in the ribbon menu under the taskbar and click _"Save"_. Then close the file and you are done, the error is debugged.**
 ![](errors/3.jpg)<br />
+<br />
+**Now you can run the program error free.**<br />
 <br />
 
 ## Program Mockups
