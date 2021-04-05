@@ -2,6 +2,15 @@
 
 Basic Hotel Management System (in Python) is a simple console application, based on a Character User Interface. This project is used for hotel booking for individual accounts. In this CUI application we have tried to keep the language highly user friendly so that the user is properly directed through the steps of booking their hotel rooms. At the same we have also tried to maintain all the possibility which may help the user to book his/her hotel in a fast yet secured way.
 
+## Contents
+
+* [Program Features](#program-features)
+* [Packages & Modules used](#packages--modules-used)
+* [Prerequisites](#prerequisites)
+* [Limitations of the Program](#limitations-of-the-program)
+* [How to use the Program](#how-to-use-the-program)
+* 
+
 ## Program Features
 
 * **USER ACCOUNTS:** This feature helps users to create theirindividual accounts so that their data is secured and bookings areeasily accessible.
@@ -55,7 +64,7 @@ Basic Hotel Management System (in Python) is a simple console application, based
 ![](how-to-use/5.jpg)<br />
 <br />
 
-## Handling MySQL password error
+## Handling Program crashing Error
 
 If you have set your own password while installing MySQL community server then you will face an error where the program will just keep crashing just after you follow STEP 6 mentioned above under the _"How to use the Program"_ section. The reason for this error is that while coding the program, the password for mysql connection was given as a mock password so when an user has their own password set then python would not be able to connect to mysql server due to password mismatch. To correct the error follow the steps given below:<br />
 <br />
