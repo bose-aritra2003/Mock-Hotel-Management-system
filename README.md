@@ -100,7 +100,8 @@ If you have set your own password while installing MySQL community server then y
 ![](mockups/7.jpg)<br />
 <br />
 
-## Developers
+## Developers 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md) 
 
 ![](/the-core-team.jpg)
 
