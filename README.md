@@ -52,19 +52,19 @@ Basic Hotel Management System (in Python) is a simple console application, based
 **1. First fulfill all the prerequisites mentioned above under the _"Prerequisites"_ section.**<br />
 <br />
 **2. Then on the GitHub repository page click on the green button named _"Code"_ and then click _"Download ZIP"_. The repository will be downloaded in your system.**
-![](https://imgur.com/rbrFUdK)<br />
+![](https://i.imgur.com/rbrFUdK.jpg)<br />
 <br />
 **3. Now in your system, go to the folder where you have downloaded the ZIP.**
-![](https://imgur.com/iR86Ntx)<br />
+![](https://i.imgur.com/iR86Ntx.jpg)<br />
 <br />
 **4. Now right click on the ZIP file and click on _"Extract Here"_.**
-![](https://imgur.com/P8JCyk6)<br />
+![](https://i.imgur.com/P8JCyk6.jpg)<br />
 <br />
 **5. The ZIP will be extracted to a folder named _"Basic-Hotel-Management-System-main"_. Double click on the folder to open it.**
-![](https://imgur.com/LfRGJaa)<br />
+![](https://i.imgur.com/LfRGJaa.jpg)<br />
 <br />
 **6. Now to run the program just double click on the file _"Basic Hotel Management System.py"_. And the program runs.**
-![](https://imgur.com/L9T0DI3)<br />
+![](https://i.imgur.com/L9T0DI3.jpg)<br />
 <br />
 
 ## Handling Program crashing Error
@@ -72,38 +72,38 @@ Basic Hotel Management System (in Python) is a simple console application, based
 If you have set your own password while installing MySQL community server then you will face an error where the program will just keep crashing just after you follow STEP 6 mentioned above under the _"How to use the Program"_ section. The reason for this error is that while coding the program, the password for mysql connection was given as a mock password so when an user has their own password set then python would not be able to connect to mysql server due to password mismatch. To correct the error follow the steps given below:<br />
 <br />
 **1. After performing STEP 5 mentioned above under the _"How to use the Program"_ section, right click on the python file named _"Basic Hotel Management System.py"_ then move your mouse pointer over the option named _"Edit with IDLE"_. Another dropdown menu will be shown, there click on _"Edit with IDLE 3.x (32/64-bit)"_.**<br />
-![](https://imgur.com/zo1X1gV)<br />
+![](https://i.imgur.com/zo1X1gV.jpg)<br />
 <br />
 **2. Now the python file will open and you should see something like shown below. Now in the indicated area show just replace xxxxxxxx with your own MySQL server password.**
-![](https://imgur.com/KoT7BdW)<br />
+![](https://i.imgur.com/KoT7BdW.jpg)<br />
 <br />
 **3. Finally just click on _"File"_ option in the ribbon menu under the taskbar and click _"Save"_. Then close the file and you are done, the error is debugged.**
-![](https://imgur.com/g6iobxn)<br />
+![](https://i.imgur.com/g6iobxn.jpg)<br />
 <br />
 **Now you can run the program error free.**<br />
 <br />
 
 ## Program Mockups
 
-![](https://imgur.com/3QxC30y)<br />
+![](https://i.imgur.com/3QxC30y.jpg)<br />
 <br />
-![](https://imgur.com/u26WhQo)<br />
+![](https://i.imgur.com/u26WhQo.jpg)<br />
 <br />
-![](https://imgur.com/d1YGuIc)<br />
+![](https://i.imgur.com/d1YGuIc.jpg)<br />
 <br />
-![](https://imgur.com/HvGG5Z5)<br />
+![](https://i.imgur.com/HvGG5Z5.jpg)<br />
 <br />
-![](https://imgur.com/buB8gAH)<br />
+![](https://i.imgur.com/buB8gAH.jpg)<br />
 <br />
-![](https://imgur.com/NYeFOsp)<br />
+![](https://i.imgur.com/NYeFOsp.jpg)<br />
 <br />
-![](https://imgur.com/DZlg0OQ)<br />
+![](https://i.imgur.com/DZlg0OQ.jpg)<br />
 <br />
 
 ## Developers 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md) 
 
-![](https://imgur.com/M4BV4Qv)<br />
+![](https://i.imgur.com/M4BV4Qv.jpg)<br />
 <br />
 
 ## License & Copyright
