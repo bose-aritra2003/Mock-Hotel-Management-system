@@ -62,10 +62,10 @@ CUI Hotel Manager (in Python) is a simple console application, based on a Charac
 **4. Now right click on the ZIP file and click on _"Extract Here"_.**
 ![](https://i.imgur.com/P8JCyk6.jpg)<br />
 <br />
-**5. The ZIP will be extracted to a folder named _"Basic-Hotel-Management-System-main"_. Double click on the folder to open it.**
+**5. The ZIP will be extracted to a folder named _"CUI-Hotel-Manager-main"_. Double click on the folder to open it.**
 ![](https://i.imgur.com/LfRGJaa.jpg)<br />
 <br />
-**6. Now to run the program just double click on the file _"Basic Hotel Management System.py"_. And the program runs.**
+**6. Now to run the program just double click on the file _"hotel_manage.py"_. And the program runs.**
 ![](https://i.imgur.com/L9T0DI3.jpg)<br />
 <br />
 
