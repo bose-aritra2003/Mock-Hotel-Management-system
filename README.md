@@ -1,4 +1,4 @@
-# Mock CUI Hotel Manager
+# CUI Hotel Manager
 
 **Note:** This is a mock program that imitates a hotel management system<br />
 <br />
