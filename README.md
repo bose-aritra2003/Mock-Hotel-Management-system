@@ -110,6 +110,6 @@ If you have set your own password while installing MySQL community server then y
 
 ## License & Copyright
 
-© Aritra Bose, Repository Owner and Programmer
+Copyright © 2021 Aritra Bose, Repository Owner and Programmer
 
 Licensed under the [MIT License](LICENSE)
